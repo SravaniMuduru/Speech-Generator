@@ -64,9 +64,6 @@ Web Speech API – Browser feature for text-to-speech
 ### 🔹 App UI
 ![Home Screen](images/homepage.png)
 
-### 🔹 Speaking Example
-![Speech Result](images/result.png)
-
 ## 📈 Future Improvements
 
 - Add voice rate and pitch controls
