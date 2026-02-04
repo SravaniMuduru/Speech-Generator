@@ -23,8 +23,11 @@ Web Speech API – Browser feature for text-to-speech
 ## 💡 Features
 
 ✔ User enters text in a text box
+
 ✔ Click a button to hear the text spoken aloud
+
 ✔ Uses built-in browser TTS (no external service required)
+
 ✔ Clean, responsive UI
 
 ## 🧩 How It Works
@@ -54,7 +57,7 @@ Web Speech API – Browser feature for text-to-speech
 
 5. OR right-click → Open with → Your browser
 
-That’s it — no backend or installation required!
+  That’s it — no backend or installation required!
 
 ## 📸 Screenshots
 
